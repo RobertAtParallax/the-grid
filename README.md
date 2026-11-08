@@ -17,16 +17,16 @@
 ║   ╱        ╱        ╱        ╱        │        ╲        ╲        ╲        ╲  ║
 ║───╱───────────╱───────────╱───────────┼───────────╲───────────╲───────────╲──║
 ╚══════════════════════════════════════════════════════════════════════════════╝
- > GRID.STATUS   PAF [v1.1.8]   IO TOWER [v0.0.0]   QUORRA [v0.0.0]   DATADISK [v0.0.0]   BIT [SOON]_
+ > GRID.STATUS   PAF [v1.1.8]   IO TOWER [v0.0.0]   QUORRA [v0.0.0]   DATADISK [v0.0.0]   UPLINK [v0.5.0]   BIT [SOON]_
 ```
 
 **The Grid is a suite of AI programs for running a real small business.** Each program does one job and does it well
 on its own. Connect them and they become a complete AI workforce: a team with a memory, a home where it is always on,
-hands that can work any website, and more programs on the way.
+hands that can work any website, a voice and hands on your phone, and more programs on the way.
 
 Everything here is built and used every day to run real businesses, not demos.
 
-`4 programs live` · `1 coming soon` · `private`
+`5 programs live` · `1 coming soon` · `private`
 
 ---
 
@@ -51,6 +51,7 @@ New programs join the Grid only if they keep that promise.
 | **[IO Tower](projects/io-tower.md)** | the home | v0.0.0 | An always-on home for the team inside Odoo: chats, cards, routines and a Control Room. |
 | **[Quorra](projects/quorra.md)** | the hands on the web | v0.0.0 | One shared, signed-in browser with a private workspace for every job and a live view for people. |
 | **DataDisk** | the files | v0.0.0 | Every file in one place: read it, edit it, convert it, open it like a drive, and ask the team about it. |
+| **[Uplink](projects/uplink.md)** | the hands on your phone | v0.5.0 | An assistant on the side button that can also use the phone for you, with your Yes for anything that matters. |
 | **Bit** | a classifier | coming soon | |
 
 ### ▌ PAF: the team
@@ -81,6 +82,14 @@ business's files in one place, light and always there: open almost any file righ
 watch it change beside the code, turn one format into another in a click, or open the whole thing as a drive on a
 computer or phone. Any file can start a conversation with the team, and every file shows what links to it.
 
+### ▌ Uplink: the phone
+The *where you are*. Uplink puts the team on your phone. Hold the side button and talk from any screen: quick answers
+come back out loud in seconds, bigger jobs go to the whole team and the answer is read to you when it lands. When you
+switch it on, the team can use the phone for you: it opens the real apps, reads the screen, taps, types and swipes,
+and checks each step before the next. The edge of the screen glows while it works, and anything that would call,
+text, send, post, pay or delete waits for your Yes on the phone. Its own app, better with the IO Tower, and on its
+way to working on its own.
+
 ### ▌ Bit: coming soon
 A classifier. Named for Bit, the little program in *Tron* that can only answer yes or no.
 
@@ -99,11 +108,16 @@ USER ── chat ──▶ ┌────────────────�
                  │       IO TOWER       │ ────────▶ │        QUORRA        │  live view,
                  │ always on · routines │ ◀──────── │  shared, signed-in   │  take over
                  │     Control Room     │  screens  │       browser        │
-                 └──────┬────────┬──────┘           └──────────┬───────────┘
-                        │        │                             │
-                        ▼        ▼                             ▼
-                      Odoo   files, email,                  websites
-                             accounting, calendar
+                 └──┬───┬────────┬──────┘           └──────────┬───────────┘
+                    ▲   │        │                             │
+                    │   ▼        ▼                             ▼
+                    │ Odoo   files, email,                  websites
+                    │        accounting, calendar
+                    ▼ you ask out loud · answers read back · phone steps
+                 ┌──────────────────────┐
+USER ── talk ──▶ │        UPLINK        │ ── apps · screen · taps ──▶ your phone
+                 │ side button · hands  │    (your Yes for anything that matters)
+                 └──────────────────────┘
 
                  ┌┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┐
                  ┆   BIT  · coming soon  ┆
@@ -113,15 +127,17 @@ USER ── chat ──▶ ┌────────────────�
 
 ### A request, end to end
 
-1. **You ask.** A message in an Odoo chat, or a note on a project or customer card.
+1. **You ask.** A message in an Odoo chat, a note on a project or customer card, or out loud on your phone with Uplink.
 2. **IO Tower wakes** within seconds.
 3. **The PAF team takes it.** The right specialists for this job pick it up.
 4. **The work happens in your systems:** Odoo records, files, email, accounting and calendar connectors.
 5. **If a website is involved, Quorra opens a private workspace** for this job alone. A live browser card appears in your
    chat. If a site needs a sign-in or a code, one tab is handed to you, you finish it, and the team carries on.
-6. **The answer lands in the same thread,** anything only you can do becomes one dated to-do, and anything the team
+6. **If the job is on your phone, Uplink does it there,** step by step, and waits for your Yes before anything that
+   reaches people or money.
+7. **The answer lands in the same thread** (or is read to you on the phone), anything only you can do becomes one dated to-do, and anything the team
    learned is written to memory so the next run knows it.
-7. **Every change to the programs themselves is committed,** with a plain-English changelog line.
+8. **Every change to the programs themselves is committed,** with a plain-English changelog line.
 
 ---
 
@@ -133,7 +149,8 @@ USER ── chat ──▶ ┌────────────────�
 | **PAF + IO Tower** | The same team, always on inside Odoo: answers chats and cards in seconds, runs on schedules. |
 | **IO Tower** (without the PAF) | An always-on agent home in Odoo, built to run with a simpler team too. |
 | **Quorra** | A shared, always-signed-in browser for any automation, working with standard browser automation tools. |
-| **PAF + IO Tower + Quorra** | The full Grid: a self-improving team, always on in Odoo, with hands on any website. |
+| **IO Tower + Uplink** | Your team in your pocket: talk to it from any screen, and let it use your phone for you. |
+| **PAF + IO Tower + Quorra + Uplink** | The full Grid: a self-improving team, always on in Odoo, with hands on any website and on your phone. |
 
 ---
 
@@ -159,6 +176,8 @@ USER ── chat ──▶ ┌────────────────�
 | PAF | `RobertAtParallax/parallax-agent-framework` | private |
 | IO Tower | `RobertAtParallax/io-tower` | private |
 | Quorra | `RobertAtParallax/quorra` | private |
+| DataDisk | `RobertAtParallax/datadisk` | private |
+| Uplink | `RobertAtParallax/uplink` | private |
 
 `projects/` holds a showcase page for each program, so the whole Grid can be read in one place. The programs
 themselves, their code and their docs are private.
@@ -166,7 +185,7 @@ themselves, their code and their docs are private.
 ---
 
 <sub>Built by Robert Richardson and his AI team at TechEase, Tyler, Texas. The PAF © Parallax Business Solutions.
-IO Tower and Quorra © TechEase USA LLC. These programs run on Anthropic's Claude and are not affiliated with,
+IO Tower, Quorra, DataDisk and Uplink © TechEase USA LLC. These programs run on Anthropic's Claude and are not affiliated with,
 endorsed by, or sponsored by Anthropic. The *Tron* names are a fan's tribute, with no affiliation with Disney.</sub>
 
 ```
