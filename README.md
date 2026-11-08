@@ -17,7 +17,7 @@
 ║   ╱        ╱        ╱        ╱        │        ╲        ╲        ╲        ╲  ║
 ║───╱───────────╱───────────╱───────────┼───────────╲───────────╲───────────╲──║
 ╚══════════════════════════════════════════════════════════════════════════════╝
- > GRID.STATUS   PAF [v1.1.8]   IO TOWER [v0.0.0]   QUORRA [v0.0.0]   BIT [SOON]_
+ > GRID.STATUS   PAF [v1.1.8]   IO TOWER [v0.0.0]   QUORRA [v0.0.0]   DATADISK [v0.0.0]   BIT [SOON]_
 ```
 
 **The Grid is a suite of AI programs for running a real small business.** Each program does one job and does it well
@@ -26,7 +26,7 @@ hands that can work any website, and more programs on the way.
 
 Everything here is built and used every day to run real businesses, not demos.
 
-`3 programs live` · `1 coming soon` · `private`
+`4 programs live` · `1 coming soon` · `private`
 
 ---
 
@@ -50,6 +50,7 @@ New programs join the Grid only if they keep that promise.
 | **[PAF](projects/paf.md)** (Parallax Agent Framework) | the team | v1.1.8 | A complete AI team that remembers, routes itself and gets better every time it works. |
 | **[IO Tower](projects/io-tower.md)** | the home | v0.0.0 | An always-on home for the team inside Odoo: chats, cards, routines and a Control Room. |
 | **[Quorra](projects/quorra.md)** | the hands on the web | v0.0.0 | One shared, signed-in browser with a private workspace for every job and a live view for people. |
+| **DataDisk** | the files | v0.0.0 | Every file in one place: read it, edit it, convert it, open it like a drive, and ask the team about it. |
 | **Bit** | a classifier | coming soon | |
 
 ### ▌ PAF: the team
@@ -73,6 +74,12 @@ The *how* for websites. One real browser that stays signed in to every account, 
 collisions: each job gets its own private workspace and sees only its own pages. People watch live and take over
 in a click. Sign-in walls become a clean hand-off. Every change to the browser is guarded by a verified backup of its
 sign-ins, so they are never lost.
+
+### ▌ DataDisk: the files
+The *what*. Named for the disc every program in *Tron* carries, holding everything it is and knows. All of the
+business's files in one place, light and always there: open almost any file right in the browser, edit a page and
+watch it change beside the code, turn one format into another in a click, or open the whole thing as a drive on a
+computer or phone. Any file can start a conversation with the team, and every file shows what links to it.
 
 ### ▌ Bit: coming soon
 A classifier. Named for Bit, the little program in *Tron* that can only answer yes or no.
