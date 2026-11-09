@@ -56,6 +56,10 @@ answers right there in the thread. No new app to learn: the team lives where you
 - **Press play right on the card.** Each card gets its own Card Studio tab where the podcasts and the video play and
   the infographic shows, however long the card's history gets. Every piece is saved with your files too.
 
+**▌ 🔊 Listen to any message**
+- Press play on any message, on any card or chat, and hear it read in your device's own voice. Skip back or ahead
+  5 seconds, pause, change the speed.
+
 **▌ Routines on autopilot**
 - Morning briefs, social posting, sign-in checks, housekeeping and more, on schedule. Create, edit, pause, re-time
   or run any of them now, from Odoo.
