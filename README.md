@@ -65,10 +65,11 @@ the Grid had a name, and it keeps that name.*
 
 ### ▌ IO Tower: the home
 The *where* and *when*. IO Tower lives inside Odoo. Write in a chat or leave a note on a card and the team is awake
-within seconds, does the work in your systems, and answers in the same thread. Routines run on schedule. You can see
-everything: each run's reasoning live, a live card whenever the browser is in use, every run with its usage, and a
-Control Room for agents, memory, routines and secrets. Guard rails keep a human in charge of money, sending,
-publishing and anything that cannot be undone.
+within seconds, does the work in your systems, and answers in the same thread. Routines run on schedule. Card Studio
+turns any card into podcasts, a video and an infographic you can play right on the card. You can see everything: each
+run's reasoning live, a live card whenever the browser is in use, every run with its usage, and a Control Room for
+agents, memory, routines and secrets. Guard rails keep a human in charge of money, sending, publishing and anything
+that cannot be undone.
 
 ### ▌ Quorra: the hands on the web
 The *how* for websites. One real browser that stays signed in to every account, shared by every job without

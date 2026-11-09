@@ -49,6 +49,13 @@ answers right there in the thread. No new app to learn: the team lives where you
   the browser, take control or stop the job.
 - **Every run on the record,** with time, model and usage, plus quota watching so nothing runs dry by surprise.
 
+**▌ 🎬 Card Studio: listen to any card**
+- **One button, four pieces.** Any project or customer card becomes a long deep dive podcast, a quick podcast with
+  the main idea, a short learning video and a one-page infographic.
+- **Everything on the card counts:** the notes, the history and the files on it, research papers included.
+- **Press play right on the card.** The podcasts and the video play inside the card, the infographic shows there too,
+  and every piece is saved with your files.
+
 **▌ Routines on autopilot**
 - Morning briefs, social posting, sign-in checks, housekeeping and more, on schedule. Create, edit, pause, re-time
   or run any of them now, from Odoo.
