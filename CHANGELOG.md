@@ -3,6 +3,8 @@
 Newest first. Plain English.
 
 ## Unreleased
+- **The Grid is the public showcase** (Robert, 2026-11-10: "public facing... what I share to people when they ask what I'm working on"). The README now says so: this repo is public, the programs stay private.
+- **IO Tower: quick answers first, and jobs that wake when what they wait for arrives** (2026-11-10). (Uplink 0.6.0 and the new onboarding join this page once they have been used for real.)
 - **IO Tower: Listen** (Robert, 2026-11-08): any message on any card or chat can be read aloud, with 5-second skips.
 - **IO Tower: Card Studio gets its own tab** (Robert, 2026-11-08): the pieces play on a tab of their own on each card.
 - **IO Tower: Card Studio** (Robert, 2026-11-08): any card becomes a deep dive podcast, a quick podcast, a learning video and an infographic, playable right on the card. New section on the IO Tower page and a line in its README section.

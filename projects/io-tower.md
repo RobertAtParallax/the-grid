@@ -35,6 +35,10 @@ answers right there in the thread. No new app to learn: the team lives where you
 - **Many jobs at once.** Up to five conversations in parallel, with card jobs and scheduled routines running alongside.
 - **Feels like a colleague.** "Team is typing..." while it works, and a 👀 on your note that turns ✅ when it's done.
 - **Pick up where you left off.** Reply to a message and the team continues that exact conversation.
+- **Quick answers first.** Tuck a small question inside a big request and the small answer comes straight back,
+  while the long work carries on.
+- **It waits without watching the clock.** When a job is waiting on a customer's text or email, a file or a date,
+  the team picks it back up the moment it arrives.
 
 **▌ Agents that act, not just answer**
 - **A team of specialists** (sales, operations, web, finance, security, writing and more), with the right ones

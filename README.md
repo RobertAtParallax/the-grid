@@ -26,7 +26,7 @@ hands that can work any website, a voice and hands on your phone, and more progr
 
 Everything here is built and used every day to run real businesses, not demos.
 
-`5 programs live` · `1 coming soon` · `private`
+`5 programs live` · `1 coming soon` · `public showcase, private programs`
 
 ---
 
@@ -65,7 +65,7 @@ the Grid had a name, and it keeps that name.*
 
 ### ▌ IO Tower: the home
 The *where* and *when*. IO Tower lives inside Odoo. Write in a chat or leave a note on a card and the team is awake
-within seconds, does the work in your systems, and answers in the same thread. Routines run on schedule. Card Studio
+within seconds, does the work in your systems, and answers in the same thread. Routines run on schedule. Tuck a quick question inside a big request and the quick answer comes first, while the long work carries on. When a job is waiting on a text or an email, the team picks it back up the moment it arrives. Card Studio
 turns any card into podcasts, a video and an infographic you can play right on the card. You can see everything: each
 run's reasoning live, a live card whenever the browser is in use, every run with its usage, and a Control Room for
 agents, memory, routines and secrets. Guard rails keep a human in charge of money, sending, publishing and anything
@@ -181,7 +181,7 @@ USER ── browse ▶ │       DATADISK       │ ── open · edit · conve
 
 | Program | Repository | Visibility |
 |---|---|---|
-| The Grid | `RobertAtParallax/the-grid` (this repo) | private |
+| The Grid | `RobertAtParallax/the-grid` (this repo) | public (this showcase) |
 | PAF | `RobertAtParallax/parallax-agent-framework` | private |
 | IO Tower | `RobertAtParallax/io-tower` | private |
 | Quorra | `RobertAtParallax/quorra` | private |
