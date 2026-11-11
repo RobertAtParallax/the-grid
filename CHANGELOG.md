@@ -3,6 +3,7 @@
 Newest first. Plain English.
 
 ## Unreleased
+- **Knowledge Graph joins the Grid as its own program** (v0.1.0). New showcase page with the standard header and three screenshots from sample data (first-person flight, a picked note with its card, the keys), a row in the programs table, the status line, mix-and-match and the repositories table. The IO Tower page points to it.
 - **IO Tower: the Routine Map, watching a run live, files opening from the Knowledge Graph, and clickable links.**
   Screenshots to follow.
 - **DataDisk v0.4.0: Word, Excel and PowerPoint edited inside DataDisk** (Robert, 2026-11-11). New line and screenshot on the DataDisk page (sample document), new version in the programs table and status line.

@@ -78,8 +78,7 @@ answers right there in the thread. No new app to learn: the team lives where you
 **▌ The Control Room**
 - One place in Odoo for the team's status, model and effort, pause and resume, routines, agents and memory, and
   secrets that stay hidden until you choose to show them.
-- **Knowledge Graph:** your whole file share as an explorable map in 2D or 3D. Pick anything on it and the file
-  opens right there, on top of the map.
+- **Knowledge Graph** is now a program of its own: see [Knowledge Graph](knowledge-graph.md).
 - **Themes,** including NeonWave: a live synthwave scene behind glowing glass panels.
 
 **▌ A team that improves itself**

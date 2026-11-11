@@ -17,7 +17,7 @@
 ║   ╱        ╱        ╱        ╱        │        ╲        ╲        ╲        ╲  ║
 ║───╱───────────╱───────────╱───────────┼───────────╲───────────╲───────────╲──║
 ╚══════════════════════════════════════════════════════════════════════════════╝
- > GRID.STATUS   PAF [v1.1.8]   IO TOWER [v0.0.0]   QUORRA [v0.0.0]   DATADISK [v0.4.0]   UPLINK [v0.5.0]   BIT [SOON]_
+ > GRID.STATUS   PAF [v1.1.8]   IO TOWER [v0.0.0]   QUORRA [v0.0.0]   DATADISK [v0.4.0]   UPLINK [v0.5.0]   GRAPH [v0.1.0]   BIT [SOON]_
 ```
 
 **The Grid is a suite of AI programs for running a real small business.** Each program does one job and does it well
@@ -26,7 +26,7 @@ hands that can work any website, a voice and hands on your phone, and more progr
 
 Everything here is built and used every day to run real businesses, not demos.
 
-`5 programs live` · `1 coming soon` · `public showcase, private programs`
+`6 programs live` · `1 coming soon` · `public showcase, private programs`
 
 ---
 
@@ -52,6 +52,7 @@ New programs join the Grid only if they keep that promise.
 | **[Quorra](projects/quorra.md)** | the hands on the web | v0.0.0 | One shared, signed-in browser with a private workspace for every job and a live view for people. |
 | **[DataDisk](projects/datadisk.md)** | the files | v0.4.0 | A file explorer for your server: manage, read, edit and convert every file (Word, Excel and PowerPoint too), open it like a drive, and ask the team about it. In Odoo, every file a card mentions is a chip that opens right on the card. |
 | **[Uplink](projects/uplink.md)** | the hands on your phone | v0.5.0 | An assistant on the side button that can also use the phone for you, with your Yes for anything that matters. |
+| **[Knowledge Graph](projects/knowledge-graph.md)** | the map | v0.1.0 | Every file in your share as one map: look at it flat, circle it in 3D, or fly through it in first person. |
 | **Bit** | a classifier | coming soon | |
 
 ### ▌ PAF: the team
@@ -161,6 +162,8 @@ USER ── browse ▶ │       DATADISK       │ ── open · edit · conve
 | **IO Tower** (without the PAF) | An always-on agent home in Odoo, built to run with a simpler team too. |
 | **Quorra** | A shared, always-signed-in browser for any automation, working with standard browser automation tools. |
 | **DataDisk** | A file explorer and network drive for the files on your server, in any browser. |
+| **Knowledge Graph** | A map of every note, file and folder on your server, in 2D, 3D or first-person flight. |
+| **Knowledge Graph + DataDisk** | Pick any dot on the map and the file opens in a preview on top of it. |
 | **IO Tower + DataDisk** | Your files inside Odoo: every file, card and website a card mentions is a chip that opens in a preview on the card, and any file can be handed to the team. |
 | **IO Tower + Uplink** | Your team in your pocket: talk to it from any screen, and let it use your phone for you. |
 | **PAF + IO Tower + Quorra + DataDisk + Uplink** | The full Grid: a self-improving team, always on in Odoo, with every file at hand and hands on any website and on your phone. |
@@ -191,6 +194,7 @@ USER ── browse ▶ │       DATADISK       │ ── open · edit · conve
 | Quorra | `RobertAtParallax/quorra` | private |
 | DataDisk | `RobertAtParallax/datadisk` | private |
 | Uplink | `RobertAtParallax/uplink` | private |
+| Knowledge Graph | `RobertAtParallax/knowledge-graph` | private |
 
 `projects/` holds a showcase page for each program, so the whole Grid can be read in one place. The programs
 themselves, their code and their docs are private.
@@ -198,7 +202,7 @@ themselves, their code and their docs are private.
 ---
 
 <sub>Built by Robert Richardson and his AI team at TechEase, Tyler, Texas. The PAF © Parallax Business Solutions.
-IO Tower, Quorra, DataDisk and Uplink © TechEase USA LLC. These programs run on Anthropic's Claude and are not affiliated with,
+IO Tower, Quorra, DataDisk, Uplink and Knowledge Graph © TechEase USA LLC. These programs run on Anthropic's Claude and are not affiliated with,
 endorsed by, or sponsored by Anthropic. The *Tron* names are a fan's tribute, with no affiliation with Disney.</sub>
 
 ```
