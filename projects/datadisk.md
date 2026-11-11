@@ -14,7 +14,7 @@
 ║             a file manager for the files already on your server              ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
- > SYS.BOOT   explorer [ONLINE]   viewer [ONLINE]   editor [ONLINE]   chips [LINKED]   v0.3.0_
+ > SYS.BOOT   explorer [ONLINE]   viewer [ONLINE]   editor [ONLINE]   chips [LINKED]   v0.4.0_
 ```
 
 # DataDisk
@@ -24,7 +24,7 @@ and every folder looks and works like File Explorer or Finder. Browse, preview, 
 hand any of them to the team, and open the whole thing as a drive on your computer or phone. Inside Odoo, every file
 a card mentions is one click away, without leaving the card.
 
-`v0.3.0` · any browser, or as an app in Odoo · Windows, Mac, Android and iPhone as a network drive
+`v0.4.0` · any browser, or as an app in Odoo · Windows, Mac, Android and iPhone as a network drive
 
 ![The DataDisk explorer: folder tree, file list and a preview pane](../assets/datadisk/explorer.png)
 
@@ -54,8 +54,12 @@ a card mentions is one click away, without leaving the card.
 - **Tools that fit the file:** zoom, turn and flip a picture; filter and sort a table; jump to a heading in a note;
   wrap and copy code; print; full screen.
 - **PDFs work on a phone,** shown page by page.
+- **Word, Excel and PowerPoint, edited right there:** they open in a full office editor in the same preview,
+  on a card too. Press Save and the copy before is kept in History.
 
 ![A note opened in the viewer, on top of the folder](../assets/datadisk/viewer.png)
+
+![A Word document open for editing, on top of the folder](../assets/datadisk/office.png)
 
 **▌ Write and edit**
 - **Notes with a toolbar:** bold, headings, lists, to-do lists, links, tables and pictures (paste or drop one in),
