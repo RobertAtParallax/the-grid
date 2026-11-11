@@ -55,6 +55,10 @@ New programs join the Grid only if they keep that promise.
 | **[Knowledge Graph](projects/knowledge-graph.md)** | the map | v0.1.0 | Every file in your share as one map: look at it flat, circle it in 3D, or fly through it in first person. |
 | **Bit** | a classifier | coming soon | |
 
+> **Sister suite: [The Studio](https://github.com/RobertAtParallax/the-studio).** Teleprompter, Video Studio and
+> Routines: the creative and planning programs that run next to the Grid inside Odoo. Same rule: useful alone,
+> better together.
+
 ### ▌ PAF: the team
 The *who*. The Parallax Agent Framework turns Claude into a working team: a board of seventeen specialist advisors,
 an Onboarding Agent that learns your business, and an Architect that builds the rest of the team around the work you
@@ -88,6 +92,8 @@ Odoo, every file, card and website a card mentions becomes a chip: click it and 
 card, so you never lose your place.
 
 ![A task in Odoo with file chips, card chips and a website chip](assets/datadisk/chips.png)
+
+![DataDisk in Light and Dark](assets/datadisk/explorer-side-by-side.png)
 
 ### ▌ Uplink: the phone
 The *where you are*. Uplink puts the team on your phone. Hold the side button and talk from any screen: quick answers
@@ -189,6 +195,7 @@ USER ── browse ▶ │       DATADISK       │ ── open · edit · conve
 | Program | Repository | Visibility |
 |---|---|---|
 | The Grid | `RobertAtParallax/the-grid` (this repo) | public (this showcase) |
+| The Studio | `RobertAtParallax/the-studio` | public (its showcase) |
 | PAF | `RobertAtParallax/parallax-agent-framework` | private |
 | IO Tower | `RobertAtParallax/io-tower` | private |
 | Quorra | `RobertAtParallax/quorra` | private |

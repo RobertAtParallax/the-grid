@@ -68,14 +68,14 @@ answers right there in the thread. No new app to learn: the team lives where you
 **▌ Routines on autopilot**
 - Morning briefs, social posting, sign-in checks, housekeeping and more, on schedule. Create, edit, pause, re-time
   or run any of them now, from Odoo.
-- **See a routine as a map.** Each routine is a chain of boxes you can read at a glance: what starts it, what it
-  checks, what it does and what it hands on. Click a box to change that step in plain English, or describe a new
-  step and approve the team's draft.
-- **Watch a run as it happens:** the step it is on lights up, each step shows its time, and you can follow the log
-  live.
+- **See every routine as a map, change any step in plain English, and watch a run light up as it happens:** that is
+  **Routines**, part of [The Studio](https://github.com/RobertAtParallax/the-studio), the sister suite.
 - When something fails you get one clear alert, not silence.
 
 **▌ The Control Room**
+
+![The Control Room in Light and Dark](../assets/io-tower/control-room-side-by-side.png)
+
 - One place in Odoo for the team's status, model and effort, pause and resume, routines, agents and memory, and
   secrets that stay hidden until you choose to show them.
 - **Knowledge Graph** is now a program of its own: see [Knowledge Graph](knowledge-graph.md).
@@ -84,6 +84,10 @@ answers right there in the thread. No new app to learn: the team lives where you
 **▌ A team that improves itself**
 - The team's own work is reviewed every week for missing tools, missing skills and repeated mistakes, which become
   improvements.
+
+**▌ Video, on the phone**
+- Record with **Teleprompter** and edit with **Video Studio**, both in [The Studio](https://github.com/RobertAtParallax/the-studio).
+  The team writes the scripts and makes the first cut.
 
 **▌ Guard rails**
 - **Only you give orders.** Emails, web forms and pages can inform the team, never command it.

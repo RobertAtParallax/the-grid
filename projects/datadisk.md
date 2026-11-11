@@ -30,6 +30,12 @@ a card mentions is one click away, without leaving the card.
 
 ---
 
+**Light and Dark** (and OLED, NeonWave, or follow your device):
+
+![The explorer in Light and Dark](../assets/datadisk/explorer-side-by-side.png)
+
+![Chips on an Odoo card in Light and Dark](../assets/datadisk/card-chips-side-by-side.png)
+
 ## What you get
 
 **▌ A real file explorer**

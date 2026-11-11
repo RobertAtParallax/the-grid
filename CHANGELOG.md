@@ -3,6 +3,11 @@
 Newest first. Plain English.
 
 ## Unreleased
+- **Light and Dark screenshots, side by side.** The IO Tower page shows the Control Room in both themes, the DataDisk
+  page shows the explorer and card chips in both. Sample data only. (The Knowledge Graph map is dark by design.)
+- **The Studio joins as a sister suite.** Teleprompter, Video Studio and Routines have their own public showcase,
+  linked from the README, the repositories table and the IO Tower page. The Routine Map section on the IO Tower page
+  now points there.
 - **Knowledge Graph joins the Grid as its own program** (v0.1.0). New showcase page with the standard header and three screenshots from sample data (first-person flight, a picked note with its card, the keys), a row in the programs table, the status line, mix-and-match and the repositories table. The IO Tower page points to it.
 - **IO Tower: the Routine Map, watching a run live, files opening from the Knowledge Graph, and clickable links.**
   Screenshots to follow.
