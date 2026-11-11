@@ -35,6 +35,7 @@ answers right there in the thread. No new app to learn: the team lives where you
 - **Many jobs at once.** Up to five conversations in parallel, with card jobs and scheduled routines running alongside.
 - **Feels like a colleague.** "Team is typing..." while it works, and a 👀 on your note that turns ✅ when it's done.
 - **Pick up where you left off.** Reply to a message and the team continues that exact conversation.
+- **Every link is clickable.** Web addresses and file mentions in the team's notes open with one click.
 - **Quick answers first.** Tuck a small question inside a big request and the small answer comes straight back,
   while the long work carries on.
 - **It waits without watching the clock.** When a job is waiting on a customer's text or email, a file or a date,
@@ -67,12 +68,18 @@ answers right there in the thread. No new app to learn: the team lives where you
 **▌ Routines on autopilot**
 - Morning briefs, social posting, sign-in checks, housekeeping and more, on schedule. Create, edit, pause, re-time
   or run any of them now, from Odoo.
+- **See a routine as a map.** Each routine is a chain of boxes you can read at a glance: what starts it, what it
+  checks, what it does and what it hands on. Click a box to change that step in plain English, or describe a new
+  step and approve the team's draft.
+- **Watch a run as it happens:** the step it is on lights up, each step shows its time, and you can follow the log
+  live.
 - When something fails you get one clear alert, not silence.
 
 **▌ The Control Room**
 - One place in Odoo for the team's status, model and effort, pause and resume, routines, agents and memory, and
   secrets that stay hidden until you choose to show them.
-- **Knowledge Graph:** your whole file share as an explorable map in 2D or 3D.
+- **Knowledge Graph:** your whole file share as an explorable map in 2D or 3D. Pick anything on it and the file
+  opens right there, on top of the map.
 - **Themes,** including NeonWave: a live synthwave scene behind glowing glass panels.
 
 **▌ A team that improves itself**
