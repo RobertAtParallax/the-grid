@@ -3,6 +3,7 @@
 Newest first. Plain English.
 
 ## Unreleased
+- **DataDisk v0.3.0 on its page, now with screenshots** (Robert, 2026-11-10: "The grid show case page should always be updated to attribute new features... lets start to include screen shots of new features"). The DataDisk page covers themes, the viewer on top of the folder, the editor (notes, tables, Run for Python), History, and chips in Odoo: files, cards and websites open in a preview on the card, and so do attachments. Nine screenshots, sample data only. New version in the programs table and status line, and a screenshot in the README.
 - **The Grid is the public showcase** (Robert, 2026-11-10: "public facing... what I share to people when they ask what I'm working on"). The README now says so: this repo is public, the programs stay private.
 - **IO Tower: quick answers first, and jobs that wake when what they wait for arrives** (2026-11-10). (Uplink 0.6.0 and the new onboarding join this page once they have been used for real.)
 - **IO Tower: Listen** (Robert, 2026-11-08): any message on any card or chat can be read aloud, with 5-second skips.

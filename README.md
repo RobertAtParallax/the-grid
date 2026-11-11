@@ -17,7 +17,7 @@
 ║   ╱        ╱        ╱        ╱        │        ╲        ╲        ╲        ╲  ║
 ║───╱───────────╱───────────╱───────────┼───────────╲───────────╲───────────╲──║
 ╚══════════════════════════════════════════════════════════════════════════════╝
- > GRID.STATUS   PAF [v1.1.8]   IO TOWER [v0.0.0]   QUORRA [v0.0.0]   DATADISK [v0.1.0]   UPLINK [v0.5.0]   BIT [SOON]_
+ > GRID.STATUS   PAF [v1.1.8]   IO TOWER [v0.0.0]   QUORRA [v0.0.0]   DATADISK [v0.3.0]   UPLINK [v0.5.0]   BIT [SOON]_
 ```
 
 **The Grid is a suite of AI programs for running a real small business.** Each program does one job and does it well
@@ -50,7 +50,7 @@ New programs join the Grid only if they keep that promise.
 | **[PAF](projects/paf.md)** (Parallax Agent Framework) | the team | v1.1.8 | A complete AI team that remembers, routes itself and gets better every time it works. |
 | **[IO Tower](projects/io-tower.md)** | the home | v0.0.0 | An always-on home for the team inside Odoo: chats, cards, routines and a Control Room. |
 | **[Quorra](projects/quorra.md)** | the hands on the web | v0.0.0 | One shared, signed-in browser with a private workspace for every job and a live view for people. |
-| **[DataDisk](projects/datadisk.md)** | the files | v0.1.0 | A file explorer for your server: manage, read, edit and convert every file, open it like a drive, and ask the team about it. |
+| **[DataDisk](projects/datadisk.md)** | the files | v0.3.0 | A file explorer for your server: manage, read, edit and convert every file, open it like a drive, and ask the team about it. In Odoo, every file a card mentions is a chip that opens right on the card. |
 | **[Uplink](projects/uplink.md)** | the hands on your phone | v0.5.0 | An assistant on the side button that can also use the phone for you, with your Yes for anything that matters. |
 | **Bit** | a classifier | coming soon | |
 
@@ -82,7 +82,11 @@ The *what*. Named for the disc every program in *Tron* carries, holding everythi
 business's files in one place, light and always there. It works like File Explorer or Finder (folder tree,
 preview pane, drag and drop, cut and paste, undo, a Trash you can put things back from), and you can open almost any file right in the browser, edit a page and
 watch it change beside the code, turn one format into another in a click, or open the whole thing as a drive on a
-computer or phone. Any file can start a conversation with the team, and every file shows what links to it.
+computer or phone. Any file can start a conversation with the team, and every file shows what links to it. Inside
+Odoo, every file, card and website a card mentions becomes a chip: click it and it opens in a preview on top of the
+card, so you never lose your place.
+
+![A task in Odoo with file chips, card chips and a website chip](assets/datadisk/chips.png)
 
 ### ▌ Uplink: the phone
 The *where you are*. Uplink puts the team on your phone. Hold the side button and talk from any screen: quick answers
@@ -157,7 +161,7 @@ USER ── browse ▶ │       DATADISK       │ ── open · edit · conve
 | **IO Tower** (without the PAF) | An always-on agent home in Odoo, built to run with a simpler team too. |
 | **Quorra** | A shared, always-signed-in browser for any automation, working with standard browser automation tools. |
 | **DataDisk** | A file explorer and network drive for the files on your server, in any browser. |
-| **IO Tower + DataDisk** | Your files inside Odoo: open the files a card points to, and hand any file to the team. |
+| **IO Tower + DataDisk** | Your files inside Odoo: every file, card and website a card mentions is a chip that opens in a preview on the card, and any file can be handed to the team. |
 | **IO Tower + Uplink** | Your team in your pocket: talk to it from any screen, and let it use your phone for you. |
 | **PAF + IO Tower + Quorra + DataDisk + Uplink** | The full Grid: a self-improving team, always on in Odoo, with every file at hand and hands on any website and on your phone. |
 
