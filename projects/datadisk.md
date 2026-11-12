@@ -87,6 +87,7 @@ a card mentions is one click away, without leaving the card.
 
 **▌ Your files as a drive**
 - Connect it as a network drive on Windows or a Mac, or with a file app on your phone. Edits land straight on the server.
+- On a Windows PC it can be a regular mapped drive: fast, shows your real disk space, and deleted files go to a recycle folder first.
 
 **▌ Works with your AI team**
 - **Ask the team** about any file and a conversation about it opens with the right people.
