@@ -14,7 +14,7 @@
 ║             a file manager for the files already on your server              ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
- > SYS.BOOT   explorer [ONLINE]   viewer [ONLINE]   editor [ONLINE]   chips [LINKED]   v0.4.0_
+ > SYS.BOOT   explorer [ONLINE]   viewer [ONLINE]   editor [ONLINE]   chips [LINKED]   v0.5.0_
 ```
 
 # DataDisk
@@ -24,7 +24,7 @@ and every folder looks and works like File Explorer or Finder. Browse, preview, 
 hand any of them to the team, and open the whole thing as a drive on your computer or phone. Inside Odoo, every file
 a card mentions is one click away, without leaving the card.
 
-`v0.4.0` · any browser, or as an app in Odoo · Windows, Mac, Android and iPhone as a network drive
+`v0.5.0` · any browser, or as an app in Odoo · Windows, Mac, Android and iPhone as a network drive
 
 ![The DataDisk explorer: folder tree, file list and a preview pane](../assets/datadisk/explorer.png)
 
@@ -97,15 +97,27 @@ a card mentions is one click away, without leaving the card.
 - **Files are chips.** Every file and folder a task or a customer mentions shows as a chip on the card. Click it
   and the file opens in a preview on top of the card. You never leave the card.
 - **Cards are chips.** A link to another task or customer opens that card in a pop-up you can read, change and save.
-- **Websites are chips.** A web link opens the site in a pop-up. Rest the pointer on it for a picture and a summary.
+  Its conversation comes with it: beside the card on a wide screen, one tap away on a phone, so you can read and
+  reply without opening the card in full.
+- **Websites are chips.** A web link opens the whole page in a pop-up, even on sites that normally refuse to be
+  shown inside another page, and the links you click stay in the pop-up. Rest the pointer on a chip for a picture
+  and a summary.
 - **Attachments open properly.** A web page, Word file, table or video attached to a card opens in the same preview.
 - **Three colors** tell files, cards and websites apart at a glance.
+- **Cards that get to the point.** A task's header fields fold away behind one line, so the description comes
+  first. Tags stay in view.
 
 ![A task in Odoo: file chips, card chips and a website chip with its hover card](../assets/datadisk/chips.png)
 
 ![A file opened in a preview on top of the card](../assets/datadisk/preview.png)
 
 ![Another card opened in a pop-up from its chip](../assets/datadisk/card.png)
+
+![A card in a pop-up with its conversation beside it, in Light and Dark](../assets/datadisk/card-log-side-by-side.png)
+
+![A whole web page open in a pop-up on top of a card, in Light and Dark](../assets/datadisk/web-page-side-by-side.png)
+
+![On a phone: the folded details line and the button that jumps to the conversation](../assets/datadisk/card-phone-side-by-side.png)
 
 ![An attached web page shown as a page, not as code](../assets/datadisk/attachment.png)
 

@@ -50,7 +50,7 @@ New programs join the Grid only if they keep that promise.
 | **[PAF](projects/paf.md)** (Parallax Agent Framework) | the team | v1.1.8 | A complete AI team that remembers, routes itself and gets better every time it works. |
 | **[IO Tower](projects/io-tower.md)** | the home | v0.0.0 | An always-on home for the team inside Odoo: chats, cards, routines and a Control Room. |
 | **[Quorra](projects/quorra.md)** | the hands on the web | v0.0.0 | One shared, signed-in browser with a private workspace for every job and a live view for people. |
-| **[DataDisk](projects/datadisk.md)** | the files | v0.4.0 | A file explorer for your server: manage, read, edit and convert every file (Word, Excel and PowerPoint too), open it like a drive, and ask the team about it. In Odoo, every file a card mentions is a chip that opens right on the card. |
+| **[DataDisk](projects/datadisk.md)** | the files | v0.5.0 | A file explorer for your server: manage, read, edit and convert every file (Word, Excel and PowerPoint too), open it like a drive, and ask the team about it. In Odoo, every file a card mentions is a chip that opens right on the card. |
 | **[Uplink](projects/uplink.md)** | the hands on your phone | v0.5.0 | An assistant on the side button that can also use the phone for you, with your Yes for anything that matters. |
 | **[Knowledge Graph](projects/knowledge-graph.md)** | the map | v0.1.0 | Every file in your share as one map: look at it flat, circle it in 3D, or fly through it in first person. |
 | **Bit** | a classifier | coming soon | |
