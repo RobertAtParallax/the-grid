@@ -81,6 +81,21 @@ answers right there in the thread. No new app to learn: the team lives where you
 - **Knowledge Graph** is now a program of its own: see [Knowledge Graph](knowledge-graph.md).
 - **Themes,** including NeonWave: a live synthwave scene behind glowing glass panels.
 
+**▌ 🛰️ Site Watch: every client website, watched**
+
+![Site Watch in Light and Dark](../assets/site-watch/board-side-by-side.png)
+
+- **One board for every website you look after,** each with a green, yellow or red light, its uptime for the last
+  day and the last week, how fast it answers, and when its security certificate runs out.
+- **Checked every few minutes, around the clock,** at no running cost. A site that stops answering twice in a row
+  raises one clear alarm in the team chat, with the fix one click away.
+- **One button to bring it back.** Press **Bring it back** and the site is restarted for you, step by step, with
+  the result written to its log. The team can do the same when you ask, never on its own.
+- **Nightly backups checked too:** a backup that did not run shows up the next morning.
+- **Grows with the business:** add a new client site in a minute and it is watched from then on.
+
+![A site that is down, with its Bring it back button, in Light and Dark](../assets/site-watch/site-side-by-side.png)
+
 **▌ A team that improves itself**
 - The team's own work is reviewed every week for missing tools, missing skills and repeated mistakes, which become
   improvements.

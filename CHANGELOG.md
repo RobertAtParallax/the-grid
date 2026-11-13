@@ -3,6 +3,9 @@
 Newest first. Plain English.
 
 ## Unreleased
+- **IO Tower: Site Watch.** New section on the IO Tower page for the client website watcher: status lights,
+  uptime, certificate dates, the alarm and the Bring it back button, with Light, Dark and side-by-side screenshots
+  from sample data. One line in the README.
 - **Light and Dark screenshots, side by side.** The IO Tower page shows the Control Room in both themes, the DataDisk
   page shows the explorer and card chips in both. Sample data only. (The Knowledge Graph map is dark by design.)
 - **The Studio joins as a sister suite.** Teleprompter, Video Studio and Routines have their own public showcase,
