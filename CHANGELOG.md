@@ -3,6 +3,7 @@
 Newest first. Plain English.
 
 ## Unreleased
+- **IO Tower: more things the team can wait for** (2026-11-13): a paid invoice, a TikTok or Instagram message, or a signal from another system now wake a waiting job too.
 - **IO Tower: Site Watch.** New section on the IO Tower page for the client website watcher: status lights,
   uptime, certificate dates, the alarm and the Bring it back button, with Light, Dark and side-by-side screenshots
   from sample data. One line in the README.

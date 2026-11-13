@@ -38,8 +38,9 @@ answers right there in the thread. No new app to learn: the team lives where you
 - **Every link is clickable.** Web addresses and file mentions in the team's notes open with one click.
 - **Quick answers first.** Tuck a small question inside a big request and the small answer comes straight back,
   while the long work carries on.
-- **It waits without watching the clock.** When a job is waiting on a customer's text or email, a file or a date,
-  the team picks it back up the moment it arrives.
+- **It waits without watching the clock.** When a job is waiting on a customer's text or email, a file, a date,
+  an invoice getting paid, a TikTok or Instagram message, or a signal from another system, the team picks it back up
+  the moment it arrives.
 
 **▌ Agents that act, not just answer**
 - **A team of specialists** (sales, operations, web, finance, security, writing and more), with the right ones
