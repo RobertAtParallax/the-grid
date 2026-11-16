@@ -66,7 +66,8 @@ what it connects to and open it.
 ## Built separate. Better together.
 On its own, Knowledge Graph maps any folder of notes and files on a server and shows it in a browser or inside Odoo.
 With DataDisk, a file opens in a preview right on top of the map. With IO Tower, the team's own notes and memory are
-part of the map, and keeping them linked keeps the map useful.
+part of the map, and keeping them linked keeps the map useful. **With IO Tower's routines, pick any routine and watch
+its path light up across the map,** step by step, through the notes and files it reads and writes.
 
 ![All the keys on one page](../assets/knowledge-graph/controls.png)
 

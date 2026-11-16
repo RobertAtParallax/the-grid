@@ -3,6 +3,8 @@
 Newest first. Plain English.
 
 ## Unreleased
+- **Knowledge Graph: routines on the map.** One line on the Knowledge Graph page and a mix-and-match row: with IO
+  Tower, pick a routine and see its path across the map, step by step. No new screenshots yet.
 - **DataDisk: alliance rooms.** New section on the DataDisk page: a folder shared with a partner team stays in
   step both ways, clashes keep both copies, deletes can be undone, the partner's files are read-only and secrets
   are held back. Light, Dark and side-by-side screenshots of the room strip and Details, from a sample room only.

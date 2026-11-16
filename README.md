@@ -173,6 +173,7 @@ USER ── browse ▶ │       DATADISK       │ ── open · edit · conve
 | **DataDisk** | A file explorer and network drive for the files on your server, in any browser. |
 | **Knowledge Graph** | A map of every note, file and folder on your server, in 2D, 3D or first-person flight. |
 | **Knowledge Graph + DataDisk** | Pick any dot on the map and the file opens in a preview on top of it. |
+| **Knowledge Graph + IO Tower** | Pick one of the team's routines and see its path across the map, step by step, through the files it uses. |
 | **IO Tower + DataDisk** | Your files inside Odoo: every file, card and website a card mentions is a chip that opens in a preview on the card, and any file can be handed to the team. |
 | **IO Tower + Uplink** | Your team in your pocket: talk to it from any screen, and let it use your phone for you. |
 | **PAF + IO Tower + Quorra + DataDisk + Uplink** | The full Grid: a self-improving team, always on in Odoo, with every file at hand and hands on any website and on your phone. |
