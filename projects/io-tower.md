@@ -82,6 +82,19 @@ answers right there in the thread. No new app to learn: the team lives where you
 - **Knowledge Graph** is now a program of its own: see [Knowledge Graph](knowledge-graph.md).
 - **Themes,** including NeonWave: a live synthwave scene behind glowing glass panels.
 
+**▌ 🔑 Accounts: choose the AI account each team runs on**
+
+![The Accounts list in Light and Dark](../assets/accounts/list-side-by-side.png)
+
+- **Connect an AI account from Odoo** in about two minutes: press Connect, sign in with the account you want in your
+  own browser, and paste the code back. No terminal, no settings files.
+- **One account per team, with a backup.** Run each team on the account you choose. If it hits its usage limit, the
+  work moves to the backup by itself, and the list shows when the first one is back.
+- **Keys never leave the server.** Odoo only shows each account's label and whether it is connected, out for now or
+  needs reconnecting. Leave the choice blank and a team keeps running exactly as before.
+
+![Picking a team's account and backup in the Control Room, Light and Dark](../assets/accounts/control-room-side-by-side.png)
+
 **▌ 🛰️ Site Watch: every client website, watched**
 
 ![Site Watch in Light and Dark](../assets/site-watch/board-side-by-side.png)
