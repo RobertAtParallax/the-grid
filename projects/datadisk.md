@@ -121,6 +121,19 @@ a card mentions is one click away, without leaving the card.
 
 ![An attached web page shown as a page, not as code](../assets/datadisk/attachment.png)
 
+**▌ Alliance rooms: one folder, shared with a partner team**
+- **Always in step, both ways.** Mark a folder as a room you share with another team and DataDisk keeps it the same
+  on both sides, within seconds. It works with a partner on their own DataDisk or on a plain cloud folder.
+- **Nothing overwritten.** If both sides change the same file at once, both versions are kept side by side.
+- **Deletes can be undone.** A file deleted on either side lands in the Trash first, and comes back in one click.
+- **Their files stay theirs.** The partner's part of the room is read-only on your side, and yours on theirs.
+- **Secrets stay home.** Anything that looks like a password or a key is held back and listed, never sent.
+- **You can see it working.** Open the room and a strip above the files shows whether it is in step and when it
+  last synced, with a Sync now button. Details shows who changed what, and when. If a room stops syncing, the team
+  hears about it once, and again when it is back.
+
+![An alliance room: the strip above the files and Details with who changed what, in Light and Dark](../assets/datadisk/room-side-by-side.png)
+
 **▌ Nothing is lost**
 - **History:** every save keeps the copy before it. Read an older copy, download it, or bring it back.
 - **Delete means Trash,** kept 30 days and put back in one click.
@@ -131,7 +144,8 @@ a card mentions is one click away, without leaving the card.
 
 ## Built separate, better together
 
-On its own, DataDisk is a light file manager and network drive for your server. With the IO Tower it lives inside
+On its own, DataDisk is a light file manager and network drive for your server, and it can share a folder with a
+partner team. With the IO Tower it lives inside
 Odoo, turns every file, card and website a card mentions into a chip, and lets you hand any file to the team. With
 the PAF, the team's own notes and memory become a folder you can read and edit like any other.
 

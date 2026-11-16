@@ -3,6 +3,9 @@
 Newest first. Plain English.
 
 ## Unreleased
+- **DataDisk: alliance rooms.** New section on the DataDisk page: a folder shared with a partner team stays in
+  step both ways, clashes keep both copies, deletes can be undone, the partner's files are read-only and secrets
+  are held back. Light, Dark and side-by-side screenshots of the room strip and Details, from a sample room only.
 - **IO Tower: Accounts.** New section on the IO Tower page: connect an AI account from Odoo, pick one per team
   with a backup, keys stay on the server. Light, Dark and side-by-side screenshots of the Accounts list and the
   Control Room tab, from sample accounts only. One line in the README.
