@@ -17,7 +17,7 @@
 ║   ╱        ╱        ╱        ╱        │        ╲        ╲        ╲        ╲  ║
 ║───╱───────────╱───────────╱───────────┼───────────╲───────────╲───────────╲──║
 ╚══════════════════════════════════════════════════════════════════════════════╝
- > GRID.STATUS   PAF [v1.1.8]   IO TOWER [v0.0.0]   QUORRA [v0.0.0]   DATADISK [v0.4.0]   UPLINK [v0.5.0]   GRAPH [v0.1.0]   BIT [SOON]_
+ > GRID.STATUS   PAF [v1.1.8]   IO TOWER [v0.0.0]   QUORRA [v0.0.0]   DATADISK [v0.4.0]   UPLINK [v0.8.0]   GRAPH [v0.1.0]   BIT [SOON]_
 ```
 
 **The Grid is a suite of AI programs for running a real small business.** Each program does one job and does it well
@@ -51,7 +51,7 @@ New programs join the Grid only if they keep that promise.
 | **[IO Tower](projects/io-tower.md)** | the home | v0.0.0 | An always-on home for the team inside Odoo: chats, cards, routines and a Control Room. |
 | **[Quorra](projects/quorra.md)** | the hands on the web | v0.0.0 | One shared, signed-in browser with a private workspace for every job and a live view for people. |
 | **[DataDisk](projects/datadisk.md)** | the files | v0.5.0 | A file explorer for your server: manage, read, edit and convert every file (Word, Excel and PowerPoint too), open it like a drive, and ask the team about it. In Odoo, every file a card mentions is a chip that opens right on the card. |
-| **[Uplink](projects/uplink.md)** | the hands on your phone | v0.5.0 | An assistant on the side button that can also use the phone for you, with your Yes for anything that matters. |
+| **[Uplink](projects/uplink.md)** | the hands on your phone | v0.8.0 | An assistant on the side button for every team in your life, that can also use the phone for you, with your Yes for anything that matters. |
 | **[Knowledge Graph](projects/knowledge-graph.md)** | the map | v0.1.0 | Every file in your share as one map: look at it flat, circle it in 3D, or fly through it in first person. |
 | **Bit** | a classifier | coming soon | |
 
@@ -102,8 +102,9 @@ The *where you are*. Uplink puts the team on your phone. Hold the side button an
 come back out loud in seconds, bigger jobs go to the whole team and the answer is read to you when it lands. When you
 switch it on, the team can use the phone for you: it opens the real apps, reads the screen, taps, types and swipes,
 and checks each step before the next. The edge of the screen glows while it works, and anything that would call,
-text, send, post, pay or delete waits for your Yes on the phone. Its own app, better with the IO Tower, and on its
-way to working on its own.
+text, send, post, pay or delete waits for your Yes on the phone. One app reaches every team in your life: it works out
+who each request is for, asks when it is not sure, and keeps each team's words with that team. Its own app, better
+with the IO Tower, and on its way to working on its own.
 
 ### ▌ Bit: coming soon
 A classifier. Named for Bit, the little program in *Tron* that can only answer yes or no.

@@ -23,7 +23,7 @@
 seconds, bigger jobs go to the whole team and the answer is read to you when it is ready. And when you say so, the
 team can use the phone for you, while you watch.
 
-`v0.5.0` · Android phones · a native app, no rooting or tinkering
+`v0.8.0` · Android phones · a native app, no rooting or tinkering
 
 ---
 
@@ -36,6 +36,18 @@ team can use the phone for you, while you watch.
 - **Big jobs go to the whole team,** and the answer is read to you when it lands, even after you have moved on.
 - **One-tap call, text and directions,** with the number looked up for you.
 - **Your choice of voice and speed,** and it pauses your music while it talks.
+
+**▌ One app for every team in your life**
+- **Talk to all of them from one place:** your business team, your family's team, and more as you add them.
+- **It works out who you mean.** Say a name ("tell the family...") or just talk: it knows which team knows which
+  people, and keeps a conversation with the team you are talking to.
+- **It asks instead of guessing.** Not sure? It asks one short question ("Is this for work or the family?") before
+  your words go anywhere.
+- **Answers say who they are from,** out loud and on screen.
+- **You keep the list:** add a team with one tap from its link, mute one, rename it, or remove it. A new team can
+  talk to you but cannot use your phone until you allow it.
+- **Each team keeps its own walls.** Uplink only passes your words to the team they are for; nothing is copied
+  between teams.
 
 **▌ The team's hands on your phone** (only while you allow it)
 - **Opens the real apps** you already use, reads the screen, and taps, types, scrolls and swipes.
