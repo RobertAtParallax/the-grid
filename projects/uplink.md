@@ -43,6 +43,8 @@ team can use the phone for you, while you watch.
 - **Talk to all of them from one place:** your business team, your family's team, and more as you add them.
 - **It works out who you mean.** Say a name ("tell the family...") or just talk: it knows which team knows which
   people, and keeps a conversation with the team you are talking to.
+- **It keeps up by itself.** Each team's list of people stays current on its own, so a new client or a nickname like
+  "Kristen's site" goes to the right team without you touching a setting.
 - **It asks instead of guessing.** Not sure? It asks one short question ("Is this for work or the family?") before
   your words go anywhere.
 - **Answers say who they are from,** out loud and on screen.
