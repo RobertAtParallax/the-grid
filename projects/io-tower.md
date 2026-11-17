@@ -59,6 +59,12 @@ answers right there in the thread. No new app to learn: the team lives where you
 - **Live thinking.** Watch the team's reasoning and every step as it works.
 - **A live browser card** in the chat whenever the team is on a website, with a fresh screenshot and buttons to open
   the browser, take control or stop the job.
+- **See it from your calendar too.** While the team works on something that is on your calendar, that item shows
+  one small line under its title: what the team is doing right now, how long it has been at it and who is on it.
+  The line goes away by itself when the work is done.
+
+![A calendar item with the team's live working line under its title](../assets/io-tower/calendar-working-light.png)
+
 - **Every run on the record,** with time, model and usage, plus quota watching so nothing runs dry by surprise.
 
 ![Runs and Usage: every job the team ran, how long it took and what it used](../assets/io-tower/runs-light.png)
