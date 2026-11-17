@@ -3,6 +3,7 @@
 Newest first. Plain English.
 
 ## Unreleased
+- **Uplink: Auto Except and the big screen.** One switch stops the Yes prompts for everything but money, and the team can now work on a monitor plugged into the phone. (Screenshot to follow.)
 
 - **IO Tower: Accounts, two more things.** Add a key for other AI models (such as OpenRouter) for second
   opinions, and pick an account for one card or one job. The Accounts list screenshot now shows a sample key

@@ -69,6 +69,10 @@ team can use the phone for you, while you watch.
 - **Off until you turn it on,** with a one-swipe switch in your quick settings.
 - **Your Yes for anything that reaches people or money.** Calls, texts, and anything that sends, posts, pays or
   deletes waits on the phone until you tap Yes.
+- **Or let it just work.** Turn on Auto Except and the team stops asking: everything goes through by itself, except
+  anything about money, which always waits for your Yes.
+- **Works on the big screen too.** Plug the phone into a monitor (Samsung DeX) and the team can see and use that
+  screen as well as the phone.
 - **You can see it working:** the edge of the screen glows while the team is using the phone.
 - **Every step is logged,** so nothing happens out of sight.
 - **It only talks to your own server,** over your private network.
