@@ -33,7 +33,7 @@ what it connects to and open it.
 
 `v0.1.0` · any browser, or as an app in Odoo · mouse, keyboard and touch
 
-![The map in first-person flight: every dot is a file, names appear as you fly close](../assets/knowledge-graph/fly.png)
+![The map inside Odoo, Light and Dark: the frame follows the theme, the map is a night sky by design](../assets/knowledge-graph/app-side-by-side.png)
 
 ---
 
@@ -58,7 +58,9 @@ what it connects to and open it.
 - **Open it** right there in the file manager, copy its path, fly to it, or focus on just it and its neighbors.
 - **Search** any file, folder or tag.
 
-![A note picked on the flat map: its links light up and its card opens](../assets/knowledge-graph/card.png)
+![The whole share on the flat map, colored by area](../assets/knowledge-graph/map-light.png)
+
+![A note picked on the flat map: its links light up and its card opens](../assets/knowledge-graph/card-light.png)
 
 **▌ Two views of the same share**
 - **Internal** shows everything. **Standard** hides the system files a regular user never needs.
@@ -69,6 +71,10 @@ With DataDisk, a file opens in a preview right on top of the map. With IO Tower,
 part of the map, and keeping them linked keeps the map useful. **With IO Tower's routines, pick any routine and watch
 its path light up across the map,** step by step, through the notes and files it reads and writes.
 
-![All the keys on one page](../assets/knowledge-graph/controls.png)
+![A routine picked: its steps in order, what each one reads and what it writes](../assets/knowledge-graph/routine-light.png)
+
+![Flying through the map in first person](../assets/knowledge-graph/fly-light.png)
+
+![All the keys on one page](../assets/knowledge-graph/controls-light.png)
 
 <sub>Screenshots use sample data.</sub>

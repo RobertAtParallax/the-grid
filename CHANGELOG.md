@@ -4,6 +4,8 @@ Newest first. Plain English.
 
 ## Unreleased
 
+- **Knowledge Graph: screenshots retaken, two new ones.** The map inside Odoo in Light and Dark, the whole share on
+  the flat map, and a routine picked with its path lit up across the map. Sample data only.
 - **IO Tower: four new screenshots.** A chat where the team answers with its thinking folded up above the reply,
   a card's own I/O Tower tab (model, strength, Deep research), Runs and Usage, and a morning digest. Sample data only.
 - Screenshots on the IO Tower, DataDisk, Site Watch and Accounts pages retaken from the current build.
