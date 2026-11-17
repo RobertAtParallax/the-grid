@@ -38,6 +38,8 @@ answers right there in the thread. No new app to learn: the team lives where you
 - **Every link is clickable.** Web addresses and file mentions in the team's notes open with one click.
 - **Quick answers first.** Tuck a small question inside a big request and the small answer comes straight back,
   while the long work carries on.
+
+![Asking the team a question in a chat, with its thinking folded up above the answer](../assets/io-tower/chat-light.png)
 - **It waits without watching the clock.** When a job is waiting on a customer's text or email, a file, a date,
   an invoice getting paid, a TikTok or Instagram message, or a signal from another system, the team picks it back up
   the moment it arrives.
@@ -48,12 +50,23 @@ answers right there in the thread. No new app to learn: the team lives where you
 - **Works in your real systems:** Odoo records, files, email, accounting and calendar, and any website through Quorra.
 - **Keeps your pipeline honest:** moves cards to the right stage, files follow-ups as dated to-dos, and prepares
   outgoing email on the card for a one-word "send it".
+- **Choose how hard the team thinks, card by card.** Every card has its own I/O Tower tab: pick the model and
+  strength for that card, or switch on **Deep research** for a careful, cited report.
+
+![A card's I/O Tower tab: model, strength and the Deep research switch](../assets/io-tower/card-tab-light.png)
 
 **▌ See everything**
 - **Live thinking.** Watch the team's reasoning and every step as it works.
 - **A live browser card** in the chat whenever the team is on a website, with a fresh screenshot and buttons to open
   the browser, take control or stop the job.
 - **Every run on the record,** with time, model and usage, plus quota watching so nothing runs dry by surprise.
+
+![Runs and Usage: every job the team ran, how long it took and what it used](../assets/io-tower/runs-light.png)
+
+- **A morning digest in every chat that has something due:** overdue, today and the next three days, led by the one
+  thing that matters most. A quiet chat gets nothing, so no empty notifications.
+
+![A morning digest in a team chat](../assets/io-tower/digest-light.png)
 
 **▌ 🎬 Card Studio: listen to any card**
 - **One button, four pieces.** Any project or customer card becomes a long deep dive podcast, a quick podcast with
