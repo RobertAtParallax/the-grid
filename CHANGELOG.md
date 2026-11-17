@@ -4,6 +4,9 @@ Newest first. Plain English.
 
 ## Unreleased
 
+- **IO Tower: Accounts, two more things.** Add a key for other AI models (such as OpenRouter) for second
+  opinions, and pick an account for one card or one job. The Accounts list screenshot now shows a sample key
+  account. Sample data only.
 - **Quorra and Uplink: first screenshots.** Quorra shows the shared browser with a named, colored workspace for each
   job, in Light and Dark, and one job's workspace open. Uplink shows its home screen and the list of teams on a sample
   phone. Sample data only.

@@ -105,6 +105,11 @@ answers right there in the thread. No new app to learn: the team lives where you
   work moves to the backup by itself, and the list shows when the first one is back.
 - **Keys never leave the server.** Odoo only shows each account's label and whether it is connected, out for now or
   needs reconnecting. Leave the choice blank and a team keeps running exactly as before.
+- **Add a key for other AI models,** such as an OpenRouter key: paste it once and the page shows what it has used.
+  The team can then ask another model for a second opinion or a fresh angle, while every team still runs on its own
+  account. Free models work with no credit at all.
+- **Pick an account for one job.** Choose an account on a single card, or just say "run this one on" an account, and
+  only that job uses it.
 
 ![Picking a team's account and backup in the Control Room](../assets/accounts/control-room-light.png)
 
