@@ -106,8 +106,12 @@ a card mentions is one click away, without leaving the card.
 - **Three colors** tell files, cards and websites apart at a glance.
 - **Cards that get to the point.** A task's header fields fold away behind one line, so the description comes
   first. Tags stay in view.
+- **Files and cards fold away too.** A card's files and linked cards sit behind one line that still shows the
+  newest few files, the ones the latest work touched, each one click from a preview.
 
 ![A task in Odoo: file chips, card chips and a website chip with its hover card](../assets/datadisk/chips.png)
+
+![The folded files and cards line, newest files in view, in Light and Dark](../assets/datadisk/files-cards-fold-side-by-side.png)
 
 ![A file opened in a preview on top of the card](../assets/datadisk/preview.png)
 
