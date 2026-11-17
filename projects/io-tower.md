@@ -84,7 +84,7 @@ answers right there in the thread. No new app to learn: the team lives where you
 
 **▌ 🔑 Accounts: choose the AI account each team runs on**
 
-![The Accounts list in Light and Dark](../assets/accounts/list-side-by-side.png)
+![The Accounts list](../assets/accounts/list-light.png)
 
 - **Connect an AI account from Odoo** in about two minutes: press Connect, sign in with the account you want in your
   own browser, and paste the code back. No terminal, no settings files.
@@ -93,11 +93,11 @@ answers right there in the thread. No new app to learn: the team lives where you
 - **Keys never leave the server.** Odoo only shows each account's label and whether it is connected, out for now or
   needs reconnecting. Leave the choice blank and a team keeps running exactly as before.
 
-![Picking a team's account and backup in the Control Room, Light and Dark](../assets/accounts/control-room-side-by-side.png)
+![Picking a team's account and backup in the Control Room](../assets/accounts/control-room-light.png)
 
 **▌ 🛰️ Site Watch: every client website, watched**
 
-![Site Watch in Light and Dark](../assets/site-watch/board-side-by-side.png)
+![Site Watch](../assets/site-watch/board-light.png)
 
 - **One board for every website you look after,** each with a green, yellow or red light, its uptime for the last
   day and the last week, how fast it answers, and when its security certificate runs out.
@@ -108,7 +108,7 @@ answers right there in the thread. No new app to learn: the team lives where you
 - **Nightly backups checked too:** a backup that did not run shows up the next morning.
 - **Grows with the business:** add a new client site in a minute and it is watched from then on.
 
-![A site that is down, with its Bring it back button, in Light and Dark](../assets/site-watch/site-side-by-side.png)
+![A site that is down, with its Bring it back button](../assets/site-watch/site-light.png)
 
 **▌ A team that improves itself**
 - The team's own work is reviewed every week for missing tools, missing skills and repeated mistakes, which become

@@ -34,7 +34,7 @@ a card mentions is one click away, without leaving the card.
 
 ![The explorer in Light and Dark](../assets/datadisk/explorer-side-by-side.png)
 
-![Chips on an Odoo card in Light and Dark](../assets/datadisk/card-chips-side-by-side.png)
+![Chips on an Odoo card](../assets/datadisk/card-chips-light.png)
 
 ## What you get
 
@@ -111,17 +111,17 @@ a card mentions is one click away, without leaving the card.
 
 ![A task in Odoo: file chips, card chips and a website chip with its hover card](../assets/datadisk/chips.png)
 
-![The folded files and cards line, newest files in view, in Light and Dark](../assets/datadisk/files-cards-fold-side-by-side.png)
+![The folded files and cards line, newest files in view](../assets/datadisk/files-cards-fold-light.png)
 
 ![A file opened in a preview on top of the card](../assets/datadisk/preview.png)
 
 ![Another card opened in a pop-up from its chip](../assets/datadisk/card.png)
 
-![A card in a pop-up with its conversation beside it, in Light and Dark](../assets/datadisk/card-log-side-by-side.png)
+![A card in a pop-up with its conversation beside it](../assets/datadisk/card-log-light.png)
 
-![A whole web page open in a pop-up on top of a card, in Light and Dark](../assets/datadisk/web-page-side-by-side.png)
+![A whole web page open in a pop-up on top of a card](../assets/datadisk/web-page-light.png)
 
-![On a phone: the folded details line and the button that jumps to the conversation](../assets/datadisk/card-phone-side-by-side.png)
+![On a phone: the folded details line and the button that jumps to the conversation](../assets/datadisk/card-phone-light.png)
 
 ![An attached web page shown as a page, not as code](../assets/datadisk/attachment.png)
 
@@ -136,7 +136,7 @@ a card mentions is one click away, without leaving the card.
   last synced, with a Sync now button. Details shows who changed what, and when. If a room stops syncing, the team
   hears about it once, and again when it is back.
 
-![An alliance room: the strip above the files and Details with who changed what, in Light and Dark](../assets/datadisk/room-side-by-side.png)
+![An alliance room: the strip above the files and Details with who changed what](../assets/datadisk/room-light.png)
 
 **▌ Nothing is lost**
 - **History:** every save keeps the copy before it. Read an older copy, download it, or bring it back.

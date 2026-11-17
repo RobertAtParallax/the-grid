@@ -3,6 +3,7 @@
 Newest first. Plain English.
 
 ## Unreleased
+- Program pages show Light screenshots, with one Light and Dark example per program, so they read well on a phone.
 - **Knowledge Graph: routines on the map.** One line on the Knowledge Graph page and a mix-and-match row: with IO
   Tower, pick a routine and see its path across the map, step by step. No new screenshots yet.
 - **DataDisk: alliance rooms.** New section on the DataDisk page: a folder shared with a partner team stays in
