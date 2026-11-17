@@ -4,6 +4,9 @@ Newest first. Plain English.
 
 ## Unreleased
 
+- **Quorra and Uplink: first screenshots.** Quorra shows the shared browser with a named, colored workspace for each
+  job, in Light and Dark, and one job's workspace open. Uplink shows its home screen and the list of teams on a sample
+  phone. Sample data only.
 - **Knowledge Graph: screenshots retaken, two new ones.** The map inside Odoo in Light and Dark, the whole share on
   the flat map, and a routine picked with its path lit up across the map. Sample data only.
 - **IO Tower: four new screenshots.** A chat where the team answers with its thinking folded up above the reply,

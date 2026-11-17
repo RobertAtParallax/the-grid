@@ -25,6 +25,8 @@ from any browser and take over in one click.
 
 `v0.0.0` · runs on your own server · works with standard browser automation tools
 
+![The shared browser, Light and Dark: every job has its own named, colored workspace](../assets/quorra/workspaces-side-by-side.png)
+
 ---
 
 ## What you get
@@ -39,6 +41,10 @@ from any browser and take over in one click.
 - **Every job gets its own named, colored workspace** and can only see and use its own pages.
 - **Jobs can't step on each other,** and no job can close or break the shared browser.
 - **Accounts are shared, work is separate.** Every job uses the same signed-in accounts; nobody's work gets mixed.
+
+![One job's workspace open, the others folded away until their jobs need them](../assets/quorra/research-light.png)
+
+<sub>Screenshots: a sample browser with sample pages. No real accounts or sign-ins.</sub>
 
 **▌ Humans and agents, side by side**
 - **Live view.** Watch the browser from any modern browser at full resolution, and take control with one click.

@@ -23,7 +23,9 @@
 seconds, bigger jobs go to the whole team and the answer is read to you when it is ready. And when you say so, the
 team can use the phone for you, while you watch.
 
-`v0.8.0` · Android phones · a native app, no rooting or tinkering
+`v0.8.1` · Android phones · a native app, no rooting or tinkering
+
+<p><img src="../assets/uplink/home-light.png" width="300" alt="Uplink's home screen: tap and talk, with the team switch off until you turn it on"></p>
 
 ---
 
@@ -48,6 +50,10 @@ team can use the phone for you, while you watch.
   talk to you but cannot use your phone until you allow it.
 - **Each team keeps its own walls.** Uplink only passes your words to the team they are for; nothing is copied
   between teams.
+
+<p><img src="../assets/uplink/uplinks-light.png" width="300" alt="Your list of teams: test, mute, take its hands off your phone, rename"></p>
+
+<sub>Screenshots: Uplink on a sample phone, with no accounts on it. The app has one look, so there is no separate Light and Dark pair.</sub>
 
 **▌ The team's hands on your phone** (only while you allow it)
 - **Opens the real apps** you already use, reads the screen, and taps, types, scrolls and swipes.
