@@ -77,6 +77,8 @@ team can use the phone for you, while you watch.
 - **Every step is logged,** so nothing happens out of sight.
 - **It only talks to your own server,** over your private network.
 
+<p><img src="../assets/uplink/auto-except-light.png" width="300" alt="The two switches: let the team use the phone, and Auto Except, where only money still asks for your Yes"></p>
+
 **▌ Easy to keep current**
 - **Updates in place** with one tap. No uninstalling, no setting it up again.
 

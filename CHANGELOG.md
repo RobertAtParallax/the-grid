@@ -5,7 +5,7 @@ Newest first. Plain English.
 ## Unreleased
 - **IO Tower: the team's work shows on your calendar.** A calendar item whose card the team is working on shows what it is doing right now, with a timer, under its title. New Light screenshot, sample data only.
 
-- **Uplink: Auto Except and the big screen.** One switch stops the Yes prompts for everything but money, and the team can now work on a monitor plugged into the phone. (Screenshot to follow.)
+- **Uplink: Auto Except and the big screen.** One switch stops the Yes prompts for everything but money, and the team can now work on a monitor plugged into the phone. New Light screenshot of the two switches on a sample phone.
 
 - **IO Tower: Accounts, two more things.** Add a key for other AI models (such as OpenRouter) for second
   opinions, and pick an account for one card or one job. The Accounts list screenshot now shows a sample key
