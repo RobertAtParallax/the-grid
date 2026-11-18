@@ -134,6 +134,24 @@ answers right there in the thread. No new app to learn: the team lives where you
 
 ![A site that is down, with its Bring it back button](../assets/site-watch/site-light.png)
 
+**▌ 🔭 Search Watch: how people find you, month by month**
+
+![Search Watch](../assets/search-watch/board-light.png)
+
+- **One tile per business,** with last month's numbers next to the month before and where you started: green when
+  it got better, red when it slipped.
+- **Everything in one page:** Google clicks and how often you showed up, your place for each search you care about,
+  calls and map views from your Google listing, and simple month-by-month charts.
+- **The map, square by square:** where you show on Google Maps around town, in colors anyone can read at a glance,
+  and which businesses most often show up ahead of you.
+- **What AI says about you:** the questions people ask AI assistants, and whether the answer named you or someone
+  else.
+- **Fills itself in every month,** with the full report a click away. Nothing to copy, nothing to remember.
+
+![A Search Watch page in Light and Dark](../assets/search-watch/site-side-by-side.png)
+
+![The map grid and Google seen from another town](../assets/search-watch/map-light.png)
+
 **▌ A team that improves itself**
 - The team's own work is reviewed every week for missing tools, missing skills and repeated mistakes, which become
   improvements.

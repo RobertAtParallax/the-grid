@@ -3,6 +3,8 @@
 Newest first. Plain English.
 
 ## Unreleased
+- **IO Tower: Search Watch.** A new section on the IO Tower page: how people find a business on Google, on the map and in AI answers, month by month, with a tile per business and a full page. New screenshots (the board, a page in Light and Dark, the map grid), sample data only.
+
 - **DataDisk: Read it to me.** Any note, PDF, Word file or web page can be read aloud in a natural voice made on your own server, so the words stay in the house. New Light screenshot, sample data only.
 
 - **IO Tower: the team's work shows on your calendar.** A calendar item whose card the team is working on shows what it is doing right now, with a timer, under its title. New Light screenshot, sample data only.
