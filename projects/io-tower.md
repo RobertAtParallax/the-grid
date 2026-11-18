@@ -38,6 +38,8 @@ answers right there in the thread. No new app to learn: the team lives where you
 - **Every link is clickable.** Web addresses and file mentions in the team's notes open with one click.
 - **Quick answers first.** Tuck a small question inside a big request and the small answer comes straight back,
   while the long work carries on.
+- **Talk out loud, hear it back.** A voice page on your phone or computer: say what you need, and the answer is
+  spoken in a natural voice made on your own server, so your words never go to a big tech company.
 
 ![Asking the team a question in a chat, with its thinking folded up above the answer](../assets/io-tower/chat-light.png)
 - **It waits without watching the clock.** When a job is waiting on a customer's text or email, a file, a date,
@@ -82,8 +84,8 @@ answers right there in the thread. No new app to learn: the team lives where you
   the infographic shows, however long the card's history gets. Every piece is saved with your files too.
 
 **▌ 🔊 Listen to any message**
-- Press play on any message, on any card or chat, and hear it read in your device's own voice. Skip back or ahead
-  5 seconds, pause, change the speed.
+- Press play on any message, on any card or chat, and hear it read in a natural voice made on your own server.
+  Skip back or ahead 5 seconds, pause, change the speed or pick another voice.
 
 **▌ Routines on autopilot**
 - Morning briefs, social posting, sign-in checks, housekeeping and more, on schedule. Create, edit, pause, re-time

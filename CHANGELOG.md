@@ -3,6 +3,10 @@
 Newest first. Plain English.
 
 ## Unreleased
+- **Uplink: Read to me, and a private voice.** Share an article, PDF or Word file to Uplink and it reads it aloud, with Pause and Stop. Answers are spoken in a natural voice made on your own server. New Light screenshot on a sample phone.
+
+- **IO Tower: the team talks back in a private voice.** The voice page speaks answers, and the Listen button on any message reads it, in a natural voice made on your own server.
+
 - **IO Tower: Search Watch.** A new section on the IO Tower page: how people find a business on Google, on the map and in AI answers, month by month, with a tile per business and a full page. New screenshots (the board, a page in Light and Dark, the map grid), sample data only.
 
 - **DataDisk: Read it to me.** Any note, PDF, Word file or web page can be read aloud in a natural voice made on your own server, so the words stay in the house. New Light screenshot, sample data only.

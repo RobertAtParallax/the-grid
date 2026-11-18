@@ -23,7 +23,7 @@
 seconds, bigger jobs go to the whole team and the answer is read to you when it is ready. And when you say so, the
 team can use the phone for you, while you watch.
 
-`v0.8.1` · Android phones · a native app, no rooting or tinkering
+`v0.10.0` · Android phones · a native app, no rooting or tinkering
 
 <p><img src="../assets/uplink/home-light.png" width="300" alt="Uplink's home screen: tap and talk, with the team switch off until you turn it on"></p>
 
@@ -37,7 +37,17 @@ team can use the phone for you, while you watch.
 - **Quick answers in seconds,** spoken out loud.
 - **Big jobs go to the whole team,** and the answer is read to you when it lands, even after you have moved on.
 - **One-tap call, text and directions,** with the number looked up for you.
-- **Your choice of voice and speed,** and it pauses your music while it talks.
+- **A natural, private voice.** Answers are spoken in a warm voice made on your own server, so your words never go
+  to Google, Samsung or anyone else. Pick another voice or the phone's own, and the speed; it pauses your music
+  while it talks.
+
+**▌ Read to me**
+- **Share anything, hear it read.** An article, an email, a PDF or a Word file: tap Share, pick "Read to me", and
+  it is read aloud in the same private voice.
+- **Pause, resume or stop** with one tap, and see the part it is reading.
+- **Never left in silence.** If the private voice is out of reach, the phone's own voice picks up where it left off.
+
+<p><img src="../assets/uplink/read-to-me-light.png" width="300" alt="Read to me: a shared guide being read aloud, with Pause and Stop"></p>
 
 **▌ One app for every team in your life**
 - **Talk to all of them from one place:** your business team, your family's team, and more as you add them.
