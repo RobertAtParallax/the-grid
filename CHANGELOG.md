@@ -3,6 +3,8 @@
 Newest first. Plain English.
 
 ## Unreleased
+- **DataDisk: Read it to me.** Any note, PDF, Word file or web page can be read aloud in a natural voice made on your own server, so the words stay in the house. New Light screenshot, sample data only.
+
 - **IO Tower: the team's work shows on your calendar.** A calendar item whose card the team is working on shows what it is doing right now, with a timer, under its title. New Light screenshot, sample data only.
 
 - **Uplink: Auto Except and the big screen.** One switch stops the Yes prompts for everything but money, and the team can now work on a monitor plugged into the phone. New Light screenshot of the two switches on a sample phone.

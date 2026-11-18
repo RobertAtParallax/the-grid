@@ -62,10 +62,15 @@ a card mentions is one click away, without leaving the card.
 - **PDFs work on a phone,** shown page by page.
 - **Word, Excel and PowerPoint, edited right there:** they open in a full office editor in the same preview,
   on a card too. Press Save and the copy before is kept in History.
+- **Read it to me:** press Listen on a note, PDF, Word file or web page and hear it read aloud in a natural voice.
+  The voice is made on your own server, so the words never leave the house, client files included. Pause, skip
+  back, change the speed or pick another voice, and it keeps reading while you look at something else.
 
 ![A note opened in the viewer, on top of the folder](../assets/datadisk/viewer.png)
 
 ![A Word document open for editing, on top of the folder](../assets/datadisk/office.png)
+
+![A note being read aloud: the Listen button and the player along the bottom](../assets/datadisk/listen-light.png)
 
 **▌ Write and edit**
 - **Notes with a toolbar:** bold, headings, lists, to-do lists, links, tables and pictures (paste or drop one in),
