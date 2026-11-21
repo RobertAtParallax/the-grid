@@ -83,6 +83,15 @@ answers right there in the thread. No new app to learn: the team lives where you
 - **Press play right on the card.** Each card gets its own Card Studio tab where the podcasts and the video play and
   the infographic shows, however long the card's history gets. Every piece is saved with your files too.
 
+**▌ 📚 Learning Library: everything you have learned, on one shelf**
+- **Every research card on three shelves:** what you learned, what you are learning now and what is up next. A new
+  research card shows up by itself, with nothing to copy.
+- **Tap a card to read it big:** the whole write-up, its files and its day-by-day notes, then back to the shelf.
+- **Find anything fast:** one search box looks at every word on every card, with topic chips and a sort. Works on a
+  phone, in Light and Dark.
+
+![The Learning Library: research cards on three shelves](../assets/io-tower/learning-library-light.png)
+
 **▌ 🔊 Listen to any message**
 - Press play on any message, on any card or chat, and hear it read in a natural voice made on your own server.
   Skip back or ahead 5 seconds, pause, change the speed or pick another voice.

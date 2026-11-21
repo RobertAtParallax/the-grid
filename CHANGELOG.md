@@ -3,6 +3,8 @@
 Newest first. Plain English.
 
 ## Unreleased
+- **IO Tower: Learning Library.** Every research card on one shelf of cards (learned, learning now, up next), each opening big to read in full, with search over every word. New Light screenshot, sample data only.
+
 - **Uplink: Read to me, and a private voice.** Share an article, PDF or Word file to Uplink and it reads it aloud, with Pause and Stop. Answers are spoken in a natural voice made on your own server. New Light screenshot on a sample phone.
 
 - **IO Tower: the team talks back in a private voice.** The voice page speaks answers, and the Listen button on any message reads it, in a natural voice made on your own server.
