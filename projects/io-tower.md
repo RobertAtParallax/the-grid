@@ -97,6 +97,10 @@ answers right there in the thread. No new app to learn: the team lives where you
   phone, in Light and Dark.
 
 ![The Learning Library: research cards on three shelves](../assets/io-tower/learning-library-light.png)
+- **Drill down from any card:** an open card shows the cards inside it and the rest of its series on a small shelf of
+  their own, with "You are here" on the one you are reading. Tap one to go deeper, Back to come up again.
+
+![An open card with its related cards on a small shelf](../assets/io-tower/learning-library-drill-light.png)
 
 **▌ 🔊 Listen to any message**
 - Press play on any message, on any card or chat, and hear it read in a natural voice made on your own server.
