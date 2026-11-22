@@ -106,6 +106,11 @@ answers right there in the thread. No new app to learn: the team lives where you
   chips, one look per kind, so a book, a paper, a video and another card read differently at a glance.
 
 ![An open card with podcasts on top and its video and infographic](../assets/io-tower/learning-library-media-light.png)
+- **🔒 A private library for every person:** each person gets a My Library tab of their own, with the same shelves
+  and reader. Only they can see it. A card goes public only when its owner taps Make public, and it stays the same
+  card.
+
+![A private card in My Library with its Make public button](../assets/io-tower/learning-library-my-library-light.png)
 
 **▌ 🔊 Listen to any message**
 - Press play on any message, on any card or chat, and hear it read in a natural voice made on your own server.
