@@ -101,6 +101,11 @@ answers right there in the thread. No new app to learn: the team lives where you
   their own, with "You are here" on the one you are reading. Tap one to go deeper, Back to come up again.
 
 ![An open card with its related cards on a small shelf](../assets/io-tower/learning-library-drill-light.png)
+- **Listen, watch and look right on the card:** a card's podcasts play at the top, its videos and infographics sit
+  just under its own cards, and the card face shows a small mark when it has them. Sources, links and files show as
+  chips, one look per kind, so a book, a paper, a video and another card read differently at a glance.
+
+![An open card with podcasts on top and its video and infographic](../assets/io-tower/learning-library-media-light.png)
 
 **▌ 🔊 Listen to any message**
 - Press play on any message, on any card or chat, and hear it read in a natural voice made on your own server.

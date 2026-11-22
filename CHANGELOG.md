@@ -3,6 +3,7 @@
 Newest first. Plain English.
 
 ## Unreleased
+- **IO Tower: Learning Library media and chips.** Podcasts play at the top of an open card, videos and infographics under its own cards, and sources, links and files show as chips by kind. Light screenshot, sample data only.
 - **IO Tower: Learning Library drill-down.** An open card shows its related cards on a small shelf, tap to go deeper, Back to come up. Light screenshot, sample data only.
 - **IO Tower: the team's agenda on your calendar.** What the team is watching for and the routines it will run sit on your calendar, with one tick box to hide them and a Team Agenda list. Light screenshot, sample data only.
 - **IO Tower: Learning Library.** Every research card on one shelf of cards (learned, learning now, up next), each opening big to read in full, with search over every word. New Light screenshot, sample data only.
