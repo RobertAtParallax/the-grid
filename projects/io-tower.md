@@ -67,6 +67,12 @@ answers right there in the thread. No new app to learn: the team lives where you
 
 ![A calendar item with the team's live working line under its title](../assets/io-tower/calendar-working-light.png)
 
+- **The team's own agenda on your calendar.** What the team is waiting for (a reply, a file, a date) and when it will
+  check again, plus every routine it will run, sit on your calendar next to your own day. One tick box hides or
+  shows them, and a **🤖 Team Agenda** list shows them all in order.
+
+![The team's agenda: what it is watching for and the routines it will run](../assets/io-tower/team-agenda-light.png)
+
 - **Every run on the record,** with time, model and usage, plus quota watching so nothing runs dry by surprise.
 
 ![Runs and Usage: every job the team ran, how long it took and what it used](../assets/io-tower/runs-light.png)
