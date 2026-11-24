@@ -197,6 +197,12 @@ Site Watch grew into Net Watch: the same board of websites, plus the servers the
 
 ![The live view of one server](../assets/net-watch/live-light.png)
 
+- **📈 Who is visiting:** every site keeps its own traffic page that fills itself in every hour: visits, different
+  visitors, the pages people open most and where they came from (Google, Facebook, typed in), plus how many
+  addresses tried to break in. Only the day totals are kept, never a visitor's address.
+
+![A site's traffic, day by day](../assets/net-watch/traffic-light.png)
+
 - **A fix log you can trust:** every fix, by a person, a teammate or by itself, is one line with who, what and when.
 
 **▌ 🔭 Search Watch: how people find you, month by month**
