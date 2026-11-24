@@ -3,6 +3,7 @@
 Newest first. Plain English.
 
 ## Unreleased
+- **IO Tower: Net Watch.** Site Watch grew into Net Watch: tile cards for sites, servers and the programs inside them, 24-hour line graphs, findings that open to a plain-English report with a Fix it button, a fix log, and a live view of any server redrawn every two seconds. Light screenshots, sample data only.
 - **Knowledge Graph: flight paths and a timeline.** Tick any routines and each flies its own color on curved paths; a timeline plays back the share's day, week or whole history, with routines lighting up while they run and files popping, pulsing, gliding and fading. Light screenshot, sample data only.
 - **IO Tower: My Library.** Every person gets a private library tab of their own; a card goes public only when its owner says so. Light screenshot, sample data only.
 - **IO Tower: Learning Library media and chips.** Podcasts play at the top of an open card, videos and infographics under its own cards, and sources, links and files show as chips by kind. Light screenshot, sample data only.

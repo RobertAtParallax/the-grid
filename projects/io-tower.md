@@ -165,6 +165,40 @@ answers right there in the thread. No new app to learn: the team lives where you
 
 ![A site that is down, with its Bring it back button](../assets/site-watch/site-light.png)
 
+**▌ 🛰️ Net Watch: every server, every program, every fix**
+
+Site Watch grew into Net Watch: the same board of websites, plus the servers they run on and the programs inside them.
+
+![Sites as tile cards, with findings and a week of uptime](../assets/net-watch/sites-light.png)
+
+- **Every site is a tile card:** up, slow or down, which server it lives on, how many problems touch it (red, yellow
+  or low), a week of uptime at a glance, how fast it answered today and when its certificate runs out. **Fix all** is
+  right there.
+- **Every server at a glance:** a small dashboard per server with CPU, memory, disk, swap and load bars, how long it
+  has been up, its busiest programs and a line graph of the last 24 hours.
+
+![Servers, each with its own small dashboard](../assets/net-watch/servers-light.png)
+
+- **Every program inside, too:** running or stopped, passing its own health check or not, what it uses right now,
+  how often it restarted, and how many known security holes its software carries.
+
+![Containers grouped by server, each with its own line graph](../assets/net-watch/containers-light.png)
+
+- **Problems become findings, written for people:** each one opens to a short report in plain English: what it is,
+  why it matters, what the fix does, what happens if we wait and who does it. Hard words are explained on the page.
+- **One button to fix it:** press **Fix it** (or **Fix all** on a site or server) and the fix is done for you, then
+  written to the fix log. Bigger fixes go to the right teammate, who carries them out and logs them the same way.
+
+![A finding's plain-English report, with its Fix it button](../assets/net-watch/report-light.png)
+
+- **⚡ Live view:** open any server and watch it breathe, redrawn every two seconds: every CPU core, memory, disk,
+  network in and out, the busiest programs and every container. It switches itself off when you leave, so it costs
+  nothing when nobody is looking.
+
+![The live view of one server](../assets/net-watch/live-light.png)
+
+- **A fix log you can trust:** every fix, by a person, a teammate or by itself, is one line with who, what and when.
+
 **▌ 🔭 Search Watch: how people find you, month by month**
 
 ![Search Watch](../assets/search-watch/board-light.png)

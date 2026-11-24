@@ -74,7 +74,7 @@ within seconds, does the work in your systems, and answers in the same thread. R
 turns any card into podcasts, a video and an infographic you can play right on the card. You can see everything: each
 run's reasoning live, a live card whenever the browser is in use, every run with its usage, and a Control Room for
 agents, memory, routines and secrets. Each team can run on its own AI account, with a backup, picked right in Odoo.
-Site Watch keeps an eye on every client website and brings one back with a single button. Search Watch shows, month by month, how people find the business on Google, on the map and in AI answers. Guard rails keep a human
+Net Watch keeps an eye on every client website, the servers under them and the programs inside, explains each problem in plain English and fixes it with a single button. Search Watch shows, month by month, how people find the business on Google, on the map and in AI answers. Guard rails keep a human
 in charge of money, sending, publishing and anything
 that cannot be undone.
 
