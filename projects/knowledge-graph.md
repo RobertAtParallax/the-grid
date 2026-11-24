@@ -69,9 +69,19 @@ what it connects to and open it.
 On its own, Knowledge Graph maps any folder of notes and files on a server and shows it in a browser or inside Odoo.
 With DataDisk, a file opens in a preview right on top of the map. With IO Tower, the team's own notes and memory are
 part of the map, and keeping them linked keeps the map useful. **With IO Tower's routines, pick any routine and watch
-its path light up across the map,** step by step, through the notes and files it reads and writes.
+its path light up across the map,** step by step, through the notes and files it reads and writes. Tick as many
+routines as you like: each one flies its own color along smooth curved paths, like flights on an airline map.
 
 ![A routine picked: its steps in order, what each one reads and what it writes](../assets/knowledge-graph/routine-light.png)
+
+**▌ Play back what happened**
+- **A timeline for the whole share:** watch the last day, the last week or everything since the start, sped up, or drag
+  the bar to any moment.
+- **Routines light up while they run,** so you can see which ones were working at the same time and where.
+- **Files tell their story:** new ones pop in green, changed ones pulse, moved ones glide over from where they were,
+  archived ones fade to grey and deleted ones flash red.
+
+![The timeline playing back a sample day: two routines fly their paths while new and changed files light up](../assets/knowledge-graph/timeline-light.png)
 
 ![Flying through the map in first person](../assets/knowledge-graph/fly-light.png)
 

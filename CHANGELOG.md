@@ -3,6 +3,7 @@
 Newest first. Plain English.
 
 ## Unreleased
+- **Knowledge Graph: flight paths and a timeline.** Tick any routines and each flies its own color on curved paths; a timeline plays back the share's day, week or whole history, with routines lighting up while they run and files popping, pulsing, gliding and fading. Light screenshot, sample data only.
 - **IO Tower: My Library.** Every person gets a private library tab of their own; a card goes public only when its owner says so. Light screenshot, sample data only.
 - **IO Tower: Learning Library media and chips.** Podcasts play at the top of an open card, videos and infographics under its own cards, and sources, links and files show as chips by kind. Light screenshot, sample data only.
 - **IO Tower: Learning Library drill-down.** An open card shows its related cards on a small shelf, tap to go deeper, Back to come up. Light screenshot, sample data only.
