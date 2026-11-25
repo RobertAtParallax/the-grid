@@ -83,6 +83,14 @@ routines as you like: each one flies its own color along smooth curved paths, li
 
 ![The timeline playing back a sample day: two routines fly their paths while new and changed files light up](../assets/knowledge-graph/timeline-light.png)
 
+**▌ See your partners' maps next to yours**
+- **Working with other teams?** One menu puts your map beside theirs, each as its own cluster, or shows one team at a time.
+- **Where you meet is drawn in:** the folders you share and the helpers you lend each other are the lines between the maps.
+- **Only what you are allowed to see:** each team decides on its own server what leaves it, so a partner's private
+  files never reach your screen at all.
+
+![Your map in the middle, your partners' around it, joined where you share work (sample data)](../assets/knowledge-graph/alliance-light.png)
+
 ![Flying through the map in first person](../assets/knowledge-graph/fly-light.png)
 
 ![All the keys on one page](../assets/knowledge-graph/controls-light.png)

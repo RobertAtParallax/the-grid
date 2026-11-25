@@ -3,6 +3,7 @@
 Newest first. Plain English.
 
 ## Unreleased
+- **Knowledge Graph: see your partners' maps.** A new menu puts your map beside the maps of teams you work with, joined where you share work, showing only what each partnership allows. Light screenshot, sample data only.
 - **IO Tower: Net Watch, who is visiting.** Each site's traffic page fills itself in every hour: visits, different visitors, top pages, where they came from and how many addresses tried to break in. Totals only, never a visitor's address. Light screenshot, sample data only.
 - **IO Tower: Net Watch.** Site Watch grew into Net Watch: tile cards for sites, servers and the programs inside them, 24-hour line graphs, findings that open to a plain-English report with a Fix it button, a fix log, and a live view of any server redrawn every two seconds. Light screenshots, sample data only.
 - **Knowledge Graph: flight paths and a timeline.** Tick any routines and each flies its own color on curved paths; a timeline plays back the share's day, week or whole history, with routines lighting up while they run and files popping, pulsing, gliding and fading. Light screenshot, sample data only.
