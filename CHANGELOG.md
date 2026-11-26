@@ -3,6 +3,7 @@
 Newest first. Plain English.
 
 ## Unreleased
+- **New looks on the IO Tower page:** brand looks for a partner team, a starfield show theme and a heads-up display show theme, with a screenshot from sample data.
 - **Knowledge Graph: see your partners' maps.** A new menu puts your map beside the maps of teams you work with, joined where you share work, showing only what each partnership allows. Light screenshot, sample data only.
 - **IO Tower: Net Watch, who is visiting.** Each site's traffic page fills itself in every hour: visits, different visitors, top pages, where they came from and how many addresses tried to break in. Totals only, never a visitor's address. Light screenshot, sample data only.
 - **IO Tower: Net Watch.** Site Watch grew into Net Watch: tile cards for sites, servers and the programs inside them, 24-hour line graphs, findings that open to a plain-English report with a Fix it button, a fix log, and a live view of any server redrawn every two seconds. Light screenshots, sample data only.
