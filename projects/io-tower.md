@@ -130,11 +130,14 @@ answers right there in the thread. No new app to learn: the team lives where you
 - One place in Odoo for the team's status, model and effort, pause and resume, routines, agents and memory, and
   secrets that stay hidden until you choose to show them.
 - **Knowledge Graph** is now a program of its own: see [Knowledge Graph](knowledge-graph.md).
-- **Themes,** including NeonWave: a live synthwave scene behind glowing glass panels. Nine looks now: brand looks
-  made in a partner team's own colors and fonts, and two more show themes, a slow starfield that shifts as you move
-  and a sci-fi heads-up display with a turning reactor ring.
+- **Themes,** including NeonWave: a live synthwave scene behind glowing glass panels. Ten looks now: brand looks
+  made in a partner team's own colors and fonts, a neon look in the partner's colors, and two more show themes, a
+  slow starfield with the odd shooting star that shifts as you move, and a sci-fi heads-up display with a turning
+  reactor ring.
 
   ![A sample project board on the starfield show theme](../assets/io-tower/theme-starfield.png)
+
+  ![Sample cards on the partner neon look](../assets/io-tower/theme-partner-neon.png)
 
 **▌ 🔑 Accounts: choose the AI account each team runs on**
 
